@@ -1,0 +1,72 @@
+#guest {
+    font-style: italic;
+    color:rgb(208, 255, 0);
+    font: size 70px;
+    font-family: 'Lucida Sans';
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp2504235.jpg);
+    
+}
+#show{
+    font-size: small;
+    color: black;
+    background-color: white;
+    border-radius: 40px;
+    box-shadow: black;
+    border-width: 10px;
+    font-weight: bold;
+}
+
+#submit{
+    font-size: small;
+    color: black;
+    background-color: rgb(211, 238, 92);
+    border-radius: 40px;
+    box-shadow: black;
+    border-width: 10px;
+    font-weight: bold;
+}
+#sort_button{
+    font-size: small;
+    color: black;
+    background-color: rgb(211, 238, 92);
+    border-radius: 40px;
+    box-shadow: black;
+    border-width: 10px;
+    font-weight: bold;
+}
+
+#srch{
+    font-size: small;
+    color: black;
+    background-color: rgb(211, 238, 92);
+    border-radius: 40px;
+    box-shadow: black;
+    border-width: 10px;
+    font-weight: bold;
+}
+
+input{
+    font-size: larger;
+}
+
+#display_name {
+    font-size: 30px;
+    
+}
+
+#p {
+    font-size: 30px;
+    
+}
+
+#p2 {
+    font-size: 30px;
+    
+}
+
+#sorted {
+    font-size: 30px;
+    
+}
